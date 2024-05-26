@@ -35,8 +35,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/2lana/nft-preview-card-component)
-- Live Site URL: [netlify](https://app.netlify.com/sites/adorable-daifuku-a22154/)
-
+- Live Site URL: [netlify](https://adorable-daifuku-a22154.netlify.app/)
+  
 ## My process
 
 ### Built with
@@ -116,7 +116,7 @@ Most YouTube channels represent the author’s personal point of view. Only docu
 
 ### Author
 
-- Website - [name here](https://app.netlify.com/sites/adorable-daifuku-a22154/)
+- Website - [name here](https://adorable-daifuku-a22154.netlify.app/)
 - Frontend Mentor - [@2Lana](https://www.frontendmentor.io/profile/2lana)
 
 
